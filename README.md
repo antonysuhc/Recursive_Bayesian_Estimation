@@ -1,0 +1,1 @@
+Learning about Bayesian inference and Bayesian filters. Best way to learn theory is to implement it. Notebook for self-learning. Goal (for now) is to demonstrate a working particle filter. 
